@@ -14,7 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("ブランチでコマンド練習")
-            Text("hiromu-v2ブランチからの変更")
+            Text("hiromu-v2マージ")
             Text("数字の確認")
             
         }
