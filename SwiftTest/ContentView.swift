@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("ブランチでコマンド練習")
             Text("hiromu-v1ブランチ")
+            Text("数字の確認")
         }
         .padding()
     }
