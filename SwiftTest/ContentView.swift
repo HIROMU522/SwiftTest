@@ -14,8 +14,9 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("ブランチでコマンド練習")
-            Text("hiromu-v1ブランチ")
+            Text("hiromu-v2ブランチからの変更")
             Text("数字の確認")
+            
         }
         .padding()
     }
